@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\bin\Debug\net7.0\Task21.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\bin\Debug\net7.0\Task21.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\bin\Debug\net7.0\Task21.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\bin\Debug\net7.0\Task21.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\bin\Debug\net7.0\Task21.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\refint\Task21.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\Task21.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task21\obj\Debug\net7.0\ref\Task21.dll

@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\bin\Debug\net7.0\Task06.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\bin\Debug\net7.0\Task06.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\bin\Debug\net7.0\Task06.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\bin\Debug\net7.0\Task06.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\bin\Debug\net7.0\Task06.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\refint\Task06.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\Task06.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar1\Task06\obj\Debug\net7.0\ref\Task06.dll

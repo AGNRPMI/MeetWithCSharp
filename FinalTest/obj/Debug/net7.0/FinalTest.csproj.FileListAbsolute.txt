@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\bin\Debug\net7.0\FinalTest.exe
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\bin\Debug\net7.0\FinalTest.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\bin\Debug\net7.0\FinalTest.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\bin\Debug\net7.0\FinalTest.dll
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\bin\Debug\net7.0\FinalTest.pdb
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.dll
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\refint\FinalTest.dll
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.pdb
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\FinalTest.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Введение Csharp\FinalTest\obj\Debug\net7.0\ref\FinalTest.dll

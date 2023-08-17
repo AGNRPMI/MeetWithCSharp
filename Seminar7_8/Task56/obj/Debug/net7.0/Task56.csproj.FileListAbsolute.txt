@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\bin\Debug\net7.0\Task56.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\bin\Debug\net7.0\Task56.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\bin\Debug\net7.0\Task56.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\bin\Debug\net7.0\Task56.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\bin\Debug\net7.0\Task56.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\refint\Task56.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\Task56.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task56\obj\Debug\net7.0\ref\Task56.dll

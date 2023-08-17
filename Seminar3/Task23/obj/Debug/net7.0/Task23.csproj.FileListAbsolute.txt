@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\bin\Debug\net7.0\Task23.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\bin\Debug\net7.0\Task23.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\bin\Debug\net7.0\Task23.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\bin\Debug\net7.0\Task23.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\bin\Debug\net7.0\Task23.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\refint\Task23.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\Task23.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar3\Task23\obj\Debug\net7.0\ref\Task23.dll

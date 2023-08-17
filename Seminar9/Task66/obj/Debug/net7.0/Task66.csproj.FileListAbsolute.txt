@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\bin\Debug\net7.0\Task66.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\bin\Debug\net7.0\Task66.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\bin\Debug\net7.0\Task66.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\bin\Debug\net7.0\Task66.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\bin\Debug\net7.0\Task66.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\refint\Task66.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\Task66.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar9\Task66\obj\Debug\net7.0\ref\Task66.dll

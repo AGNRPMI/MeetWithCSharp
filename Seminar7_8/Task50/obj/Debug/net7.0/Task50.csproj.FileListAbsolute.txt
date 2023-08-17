@@ -1,0 +1,15 @@
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\bin\Debug\net7.0\Task50.exe
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\bin\Debug\net7.0\Task50.deps.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\bin\Debug\net7.0\Task50.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\bin\Debug\net7.0\Task50.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\refint\Task50.dll
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.pdb
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+F:\Рабочая папка\Project_CSharp\GB\Seminar7_8\Task50\obj\Debug\net7.0\ref\Task50.dll
